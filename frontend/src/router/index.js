@@ -12,7 +12,7 @@ const router = createRouter({
       component: RegistrationForm,
     },
     {
-      path: '/check-status',
+      path: '/checkstatus',
       name: 'CheckStatus',
       component: CheckStatus,
     },
